@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/tapancyberexpert/callbomber"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
-  TBomb v2.1b
+  Call Bomber v2.1b
   <br>
 </h1>
 
@@ -81,7 +81,7 @@ To use the bomber type the following commands in Termux:
 ```shell script
 pkg install git -y 
 pkg install python -y 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/tapancyberexpert/callbomber.git
 cd TBomb
 ./TBomb.sh
 ```
@@ -95,7 +95,7 @@ apk add python3
 apk add py3-pip
 apk add ruby
 gem install toilet
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/tapancyberexpert/callbomber.git
 cd TBomb
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
@@ -107,7 +107,7 @@ chmod +x TBomb.sh
 To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/tapancyberexpert/callbomber.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -129,7 +129,7 @@ brew install git
 brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/tapancyberexpert/callbomber.git
 cd TBomb
 bash TBomb.sh
 ```
@@ -141,8 +141,8 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 ### Demonstrative Video:
 
-- Watch Indian Bombing Method [here](https://youtu.be/9KWkwsr_QGw)  
-- Watch International Bombing Method [here](https://youtu.be/JqsHkyIcnPM).  
+- Watch Indian Bombing Method [here](https://www.youtube.com/watch?v=hu21s6FVUQw&t=5s)  
+- Watch International Bombing Method [here](https://www.youtube.com/watch?v=hu21s6FVUQw&t=5s).  
 
 ## Contributors
 
@@ -151,12 +151,9 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 - Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
 - Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
 - Ping **Rieltar** at https://t.me/RieltarReborn
+- Mail **Tapan Kr. Jha** at https://github.com/tapancyberexpert 
+- Watch **Cyber Crime Cases** at https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA
 
-
-### Donators:
-
-- **[34D30Y](34db0y@protonmail.com)**
-- **SC AMAN**
 
 ### TODO:
 
@@ -170,8 +167,8 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 ### Contact US  
 
-For Queries: [Telegram Group](https://t.me/TBombChat)  
-[Check Out My YouTube Channel](https://www.youtube.com/c/SpeedXTech)
+For Queries:   
+[Check Out My YouTube Channel](https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA)
 
 ## FAQ
 
