@@ -82,7 +82,7 @@ To use the bomber type the following commands in Termux:
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/tapancyberexpert/callbomber.git
-cd TBomb
+cd callbomber
 ./TBomb.sh
 ```
 
@@ -96,7 +96,7 @@ apk add py3-pip
 apk add ruby
 gem install toilet
 git clone https://github.com/tapancyberexpert/callbomber.git
-cd TBomb
+cd callbomber
 pip3 install -r requirements.txt
 chmod +x TBomb.sh
 ./TBomb.sh
@@ -108,7 +108,7 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
 git clone https://github.com/tapancyberexpert/callbomber.git
-cd TBomb
+cd callbomber
 bash TBomb.sh
 ```
 
@@ -130,7 +130,7 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/tapancyberexpert/callbomber.git
-cd TBomb
+cd callbomber
 bash TBomb.sh
 ```
 
@@ -146,13 +146,14 @@ The package `toilet` cannot be installed yet on macOS. But TBomb does still work
 
 ## Contributors
 
+- Mail **Tapan Kr. Jha** at https://github.com/tapancyberexpert 
+- Watch **Cyber Crime Cases** at https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA
 - Catch **[t0xic0der](https://github.com/t0xic0der)** at https://atlasdoc.netlify.app
 - Check **[Avinash](https://github.com/AvinashReddy3108)** at https://github.com/AvinashReddy3108
 - Mail **[scpketer](https://github.com/scpketer)** at scpketer@protonmail.ch
 - Mail **[Stefan](https://github.com/0n1cOn3)** at 0n1cOn3@gmx.ch
 - Ping **Rieltar** at https://t.me/RieltarReborn
-- Mail **Tapan Kr. Jha** at https://github.com/tapancyberexpert 
-- Watch **Cyber Crime Cases** at https://www.youtube.com/channel/UCECwQudL-F-CT9pwP21gMoA
+
 
 
 ### TODO:
